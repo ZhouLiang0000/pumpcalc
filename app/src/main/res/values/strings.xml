@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">pumpcalc</string>
+    <string name="app_name">PumpCalc</string>
+    <string name="main_title">PumpCalc</string>
+    <string name="item_title1">单位体重单位时间药物剂量</string>
+    <string name="item_one">ug/kg/min</string>
+    <string name="item_two">mg/kg/h</string>
+    <string name="item_there">mg/kg/min</string>
+    <string name="item_title2">每安瓿瓶剂量</string>
+    <string name="company_mg">mg</string>
+    <string name="company_ug">ug</string>
+    <string name="each_quantity">每安瓿瓶液体量(mL)</string>
+    <string name="number_bottles">安瓿瓶数</string>
+    <string name="liquid_quantity">最终液体量(mL)</string>
+    <string name="weight">体重(kg)</string>
+    <string name="reset">重置</string>
+    <string name="calculation">计算</string>
+    <string name="see_instructions">点击此处显示使用说明</string>
+    <string name="hidden_instructions">点击此处隐藏使用说明</string>
+    <string name="instructions">1.有三种剂量单位供选择:mg/kg/h,mg/kg/min,ug/kg/min。用户可根据药物说明书选择。\n 2.出于安全性考虑，安瓿瓶数应设定为整数。\n 3.部分药物说明书中提供的剂量单位为"mg/h"、"mg/min"、"ug/min"。此时，应设定体重为1kg。</string>
 </resources>
