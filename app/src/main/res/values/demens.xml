@@ -3,5 +3,9 @@
     <dimen name="main_title_size">25dp</dimen>
     <dimen name="item_title_size">20dp</dimen>
     <dimen name="main_title_height">50dp</dimen>
+    <dimen name="main_item_height">30dp</dimen>
+    <dimen name="main_button_height">60dp</dimen>
+    <dimen name="main_item_weight">0.4</dimen>
+    <dimen name="main_item_edit_text_weight">0.6</dimen>
 
 </resources>
